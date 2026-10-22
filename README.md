@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Guthali Naturals - Natural & Ayurvedic E-Commerce Platform
 
 A modern, production-ready e-commerce platform for natural, ayurvedic, and herbal products built with Next.js 14, TypeScript, Prisma, and Tailwind CSS.
@@ -227,3 +228,7 @@ For support, email support@guthalinaturals.com
 ---
 
 Built with ❤️ by Guthali Naturals Team
+=======
+# guthali-naturals
+website for testing purpose
+>>>>>>> 2200723a474cc3b0be923c4b388c29c830a4b205
